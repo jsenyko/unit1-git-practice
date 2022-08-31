@@ -1,0 +1,122 @@
+### Step 2A
+/c/Users/Jsenyko
+
+### Step 2B
+ls, cd /c/Users/Jsenyko/code
+
+### Step 2C
+cd unit1-git-practice
+
+### Step 2D
+/c/Users/Jsenyko/code/unit1-git-practice
+
+### Step 2E
+ls
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+cd ~
+
+### Step 2H
+/c/Users/Jsenyko
+
+### Step 2I
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{e6ed3dcf-7959-11ec-9983-00155d6d0cc9}.TM.blf
+ NTUSER.DAT{e6ed3dcf-7959-11ec-9983-00155d6d0cc9}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{e6ed3dcf-7959-11ec-9983-00155d6d0cc9}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+'OneDrive - Knex'/
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+ code/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+ source/
+
+
+### Step 2J
+cd ~
+
+### Step 2K
+pwd, cd /c/Users/Jsenyko/code, cd unit1-git-practice
+
+
+### Step 3A
+mkdir veggies, mkdir meats, mkdir desserts
+
+### Step 3B
+mv desserts sweets
+
+### Step 3C
+mkdir proteins
+
+### Step 3D
+mv meats proteins
+
+### Step 3E
+cd veggies, touch carrot.txt, touch pea.txt
+
+### Step 3F
+cd .., cd sweets, touch cookie.txt
+
+### Step 3G
+touch menu.txt
+
+### Step 3H
+touch thing.txt
+
+### Step 3I
+cp thing.txt tofu.txt
+
+### Step 3J
+mv tofu.txt proteins
+
+### Step 3K
+cp thing.txt crab.txt, mv crab.txt proteins, cd proteins, mv crab.txt meats
+
+### Step 3L
+rm thing.txt
+
+### Step 3M
+cp -r veggies plants
+
+### Step 3N
+mkdir drinks, rm -r drinks
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
